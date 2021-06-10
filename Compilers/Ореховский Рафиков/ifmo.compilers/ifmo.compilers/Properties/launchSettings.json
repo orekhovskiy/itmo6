@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ifmo.compilers": {
+      "commandName": "Project",
+      "commandLineArgs": "pseudocode.txt"
+    }
+  }
+}

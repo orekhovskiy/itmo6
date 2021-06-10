@@ -1,0 +1,19 @@
+Var a,b,c,d;
+Begin
+a:=1;
+b:=7;
+REPEAT
+Begin
+c := a + b;
+d := b - a;
+End
+UNTIL not c =< 20
+REPEAT
+Begin
+a := a + 1;
+End
+UNTIL a = 3
+c := c * 2;
+d := d / a;
+
+End

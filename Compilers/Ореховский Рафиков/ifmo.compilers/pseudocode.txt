@@ -1,0 +1,9 @@
+Var a, variable
+a = -5
+variable = 1
+WHILE a < 20 DO
+	Begin
+	a = a + variable
+	variable = variable + 1
+	End
+a = variable.
